@@ -5,7 +5,7 @@ A personal portfolio showcasing experience and work in IT support, cybersecurity
 ## Projects
 
 - **Phishing-led ransomware investigation:** A capstone case study examining a simulated ransomware attack on a university learning management system. [View on GitHub](https://github.com/myzz-rica/cybersecurity-incident-investigation-of-a-phishing-led-ransomware-attack)
-- **Event registration and ticketing system:** A serverless AWS REST API for event listings, registrations, attendee lookups, and cancellations. [Live demo](http://event-ticketing-frontend-erica.s3-website-us-east-1.amazonaws.com) · [View on GitHub](https://github.com/myzz-rica/event-registration-ticketing-system)
+- **Event registration and ticketing system:** A serverless AWS REST API for event listings, registrations, attendee lookups, and cancellations· [View on GitHub](https://github.com/myzz-rica/event-registration-ticketing-system)
 
 ## Built with
 
